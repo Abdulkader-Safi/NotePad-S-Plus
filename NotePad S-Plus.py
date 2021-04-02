@@ -28,9 +28,9 @@ class Notepad_S_Plus:
 		
 		# Set icon 
 		try: 
-				self.notepad.wm_iconbitmap("NotePad S-Plus.ico") 
+			self.notepad.wm_iconbitmap("NotePad S-Plus.ico") 
 		except: 
-				pass
+			pass
 		
 		#set windows size default 300x300
 		try:
