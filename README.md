@@ -3,7 +3,7 @@
 2. Written in Python
 3. Uses Tkinter lib
 
-Notepad mini project built by me to add to my portfolio
+Notepad mini project built it open source you can check the code and change it your needs
 
 ### Follow Me
 > Instagram : https://www.instagram.com/abdulkader.safi/
